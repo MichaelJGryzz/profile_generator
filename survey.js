@@ -16,8 +16,7 @@ rl.question("What's your name? Nicknames are also acceptable 😊 ", (answer1) =
 
               console.log(`\nThank you for your valuable feedback! ✅\n`);
 
-              console.log("YOUR NEW PROFILE:");
-              console.log();
+              console.log("YOUR NEW PROFILE:\n");
 
               console.log(`${answer1} loves listening to ${answer3} while ${answer2}, devouring ${answer5} for ${answer4}, prefers ${answer6} over any other sport, and is amazing at ${answer7}.`);
 
